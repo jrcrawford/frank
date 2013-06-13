@@ -1,0 +1,389 @@
+From: "Saved by Windows Internet Explorer 8"
+Subject: CPS-Reliable Financial Group | iBrochure
+Date: Tue, 3 Aug 2010 22:39:11 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01CB335C.B1354FE0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7600.16543
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01CB335C.B1354FE0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://cpsqa.brilliantone.com/assets/files/Affiliates/Reliable_Financial_Group/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML lang=3Den xml:lang=3D"en" =
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>CPS-Reliable =
+Financial Group | iBrochure</TITLE>
+<META content=3D"text/html; charset=3DISO-8859-1" =
+http-equiv=3DContent-Type><LINK=20
+rel=3D"shortcut icon" href=3D"favIcon.ico">
+<SCRIPT language=3Djavascript>AC_FL_RunContent =3D 0;</SCRIPT>
+
+<SCRIPT language=3Djavascript=20
+src=3D"http://cpsqa.brilliantone.com/assets/files/Affiliates/Reliable_Fin=
+ancial_Group/AC_RunActiveContent.js"></SCRIPT>
+
+<STYLE type=3Dtext/css>BODY {
+	MARGIN: 0px
+}
+</STYLE>
+
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7600.16588"></HEAD>
+<BODY bgColor=3D#ffffff><!--url's used in the movie--><!--text used in =
+the movie--><!-- saved from url=3D(0013)about:internet -->
+<SCRIPT language=3Djavascript>=0A=
+	if (AC_FL_RunContent =3D=3D 0) {=0A=
+		alert("This page requires AC_RunActiveContent.js.");=0A=
+	} else {=0A=
+		AC_FL_RunContent( =
+'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swfla=
+sh.cab#version=3D8,0,0,0','width','100%','height','100%','id','HTML_ebroc=
+hure','align','top','src','HTML_ebrochure','menu','false','quality','high=
+','scale','noscale','bgcolor','#ffffff','name','HTML_ebrochure','allowscr=
+iptaccess','sameDomain','allowfullscreen','false','pluginspage','http://w=
+ww.macromedia.com/go/getflashplayer','movie','HTML_ebrochure' ); //end =
+AC code=0A=
+	}=0A=
+</SCRIPT>
+<NOSCRIPT>
+<OBJECT id=3DHTML_ebrochure=20
+codeBase=3D"http://download.macromedia.com/pub/shockwave/cabs/flash/swfla=
+sh.cab#version=3D8,0,0,0"=20
+classid=3Dclsid:d27cdb6e-ae6d-11cf-96b8-444553540000 width=3D"100%" =
+align=3Dtop=20
+height=3D"100%"><PARAM NAME=3D"allowScriptAccess" =
+VALUE=3D"sameDomain"><PARAM NAME=3D"allowFullScreen" =
+VALUE=3D"false"><PARAM NAME=3D"movie" =
+VALUE=3D"HTML_ebrochure.swf"><PARAM NAME=3D"menu" VALUE=3D"false"><PARAM =
+NAME=3D"quality" VALUE=3D"high"><PARAM NAME=3D"scale" =
+VALUE=3D"noscale"><PARAM NAME=3D"bgcolor" VALUE=3D"#ffffff">
+				<embed src=3D"HTML_ebrochure.swf" menu=3D"false" quality=3D"high" =
+scale=3D"noscale"=20
+bgcolor=3D"#ffffff" width=3D"100%" height=3D"100%" =
+name=3D"HTML_ebrochure" align=3D"top"=20
+allowScriptAccess=3D"sameDomain" allowFullScreen=3D"false"=20
+type=3D"application/x-shockwave-flash"=20
+pluginspage=3D"http://www.macromedia.com/go/getflashplayer" />
+	</OBJECT></NOSCRIPT></BODY></HTML>
+
+------=_NextPart_000_0000_01CB335C.B1354FE0
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://cpsqa.brilliantone.com/assets/files/Affiliates/Reliable_Financial_Group/AC_RunActiveContent.js
+
+//v1.7=0A=
+// Flash Player Version Detection=0A=
+// Detect Client Browser type=0A=
+// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.=0A=
+var isIE  =3D (navigator.appVersion.indexOf("MSIE") !=3D -1) ? true : =
+false;=0A=
+var isWin =3D (navigator.appVersion.toLowerCase().indexOf("win") !=3D =
+-1) ? true : false;=0A=
+var isOpera =3D (navigator.userAgent.indexOf("Opera") !=3D -1) ? true : =
+false;=0A=
+=0A=
+function ControlVersion()=0A=
+{=0A=
+	var version;=0A=
+	var axo;=0A=
+	var e;=0A=
+=0A=
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't =
+in the registry=0A=
+=0A=
+	try {=0A=
+		// version will be set for 7.X or greater players=0A=
+		axo =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");=0A=
+		version =3D axo.GetVariable("$version");=0A=
+	} catch (e) {=0A=
+	}=0A=
+=0A=
+	if (!version)=0A=
+	{=0A=
+		try {=0A=
+			// version will be set for 6.X players only=0A=
+			axo =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");=0A=
+			=0A=
+			// installed player is some revision of 6.0=0A=
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,=0A=
+			// so we have to be careful. =0A=
+			=0A=
+			// default to the first public version=0A=
+			version =3D "WIN 6,0,21,0";=0A=
+=0A=
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		=0A=
+			axo.AllowScriptAccess =3D "always";=0A=
+=0A=
+			// safe to call for 6.0r47 or greater=0A=
+			version =3D axo.GetVariable("$version");=0A=
+=0A=
+		} catch (e) {=0A=
+		}=0A=
+	}=0A=
+=0A=
+	if (!version)=0A=
+	{=0A=
+		try {=0A=
+			// version will be set for 4.X or 5.X player=0A=
+			axo =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");=0A=
+			version =3D axo.GetVariable("$version");=0A=
+		} catch (e) {=0A=
+		}=0A=
+	}=0A=
+=0A=
+	if (!version)=0A=
+	{=0A=
+		try {=0A=
+			// version will be set for 3.X player=0A=
+			axo =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");=0A=
+			version =3D "WIN 3,0,18,0";=0A=
+		} catch (e) {=0A=
+		}=0A=
+	}=0A=
+=0A=
+	if (!version)=0A=
+	{=0A=
+		try {=0A=
+			// version will be set for 2.X player=0A=
+			axo =3D new ActiveXObject("ShockwaveFlash.ShockwaveFlash");=0A=
+			version =3D "WIN 2,0,0,11";=0A=
+		} catch (e) {=0A=
+			version =3D -1;=0A=
+		}=0A=
+	}=0A=
+	=0A=
+	return version;=0A=
+}=0A=
+=0A=
+// JavaScript helper required to detect Flash Player PlugIn version =
+information=0A=
+function GetSwfVer(){=0A=
+	// NS/Opera version >=3D 3 check for Flash plugin in plugin array=0A=
+	var flashVer =3D -1;=0A=
+	=0A=
+	if (navigator.plugins !=3D null && navigator.plugins.length > 0) {=0A=
+		if (navigator.plugins["Shockwave Flash 2.0"] || =
+navigator.plugins["Shockwave Flash"]) {=0A=
+			var swVer2 =3D navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";=0A=
+			var flashDescription =3D navigator.plugins["Shockwave Flash" + =
+swVer2].description;=0A=
+			var descArray =3D flashDescription.split(" ");=0A=
+			var tempArrayMajor =3D descArray[2].split(".");			=0A=
+			var versionMajor =3D tempArrayMajor[0];=0A=
+			var versionMinor =3D tempArrayMajor[1];=0A=
+			var versionRevision =3D descArray[3];=0A=
+			if (versionRevision =3D=3D "") {=0A=
+				versionRevision =3D descArray[4];=0A=
+			}=0A=
+			if (versionRevision[0] =3D=3D "d") {=0A=
+				versionRevision =3D versionRevision.substring(1);=0A=
+			} else if (versionRevision[0] =3D=3D "r") {=0A=
+				versionRevision =3D versionRevision.substring(1);=0A=
+				if (versionRevision.indexOf("d") > 0) {=0A=
+					versionRevision =3D versionRevision.substring(0, =
+versionRevision.indexOf("d"));=0A=
+				}=0A=
+			}=0A=
+			var flashVer =3D versionMajor + "." + versionMinor + "." + =
+versionRevision;=0A=
+		}=0A=
+	}=0A=
+	// MSN/WebTV 2.6 supports Flash 4=0A=
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") !=3D =
+-1) flashVer =3D 4;=0A=
+	// WebTV 2.5 supports Flash 3=0A=
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") !=3D =
+-1) flashVer =3D 3;=0A=
+	// older WebTV supports Flash 2=0A=
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") !=3D -1) =
+flashVer =3D 2;=0A=
+	else if ( isIE && isWin && !isOpera ) {=0A=
+		flashVer =3D ControlVersion();=0A=
+	}	=0A=
+	return flashVer;=0A=
+}=0A=
+=0A=
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true =
+if that version or greater is available=0A=
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)=0A=
+{=0A=
+	versionStr =3D GetSwfVer();=0A=
+	if (versionStr =3D=3D -1 ) {=0A=
+		return false;=0A=
+	} else if (versionStr !=3D 0) {=0A=
+		if(isIE && isWin && !isOpera) {=0A=
+			// Given "WIN 2,0,0,11"=0A=
+			tempArray         =3D versionStr.split(" "); 	// ["WIN", "2,0,0,11"]=0A=
+			tempString        =3D tempArray[1];			// "2,0,0,11"=0A=
+			versionArray      =3D tempString.split(",");	// ['2', '0', '0', '11']=0A=
+		} else {=0A=
+			versionArray      =3D versionStr.split(".");=0A=
+		}=0A=
+		var versionMajor      =3D versionArray[0];=0A=
+		var versionMinor      =3D versionArray[1];=0A=
+		var versionRevision   =3D versionArray[2];=0A=
+=0A=
+        	// is the major.revision >=3D requested major.revision AND the =
+minor version >=3D requested minor=0A=
+		if (versionMajor > parseFloat(reqMajorVer)) {=0A=
+			return true;=0A=
+		} else if (versionMajor =3D=3D parseFloat(reqMajorVer)) {=0A=
+			if (versionMinor > parseFloat(reqMinorVer))=0A=
+				return true;=0A=
+			else if (versionMinor =3D=3D parseFloat(reqMinorVer)) {=0A=
+				if (versionRevision >=3D parseFloat(reqRevision))=0A=
+					return true;=0A=
+			}=0A=
+		}=0A=
+		return false;=0A=
+	}=0A=
+}=0A=
+=0A=
+function AC_AddExtension(src, ext)=0A=
+{=0A=
+  if (src.indexOf('?') !=3D -1)=0A=
+    return src.replace(/\?/, ext+'?'); =0A=
+  else=0A=
+    return src + ext;=0A=
+}=0A=
+=0A=
+function AC_Generateobj(objAttrs, params, embedAttrs) =0A=
+{ =0A=
+  var str =3D '';=0A=
+  if (isIE && isWin && !isOpera)=0A=
+  {=0A=
+    str +=3D '<object ';=0A=
+    for (var i in objAttrs)=0A=
+    {=0A=
+      str +=3D i + '=3D"' + objAttrs[i] + '" ';=0A=
+    }=0A=
+    str +=3D '>';=0A=
+    for (var i in params)=0A=
+    {=0A=
+      str +=3D '<param name=3D"' + i + '" value=3D"' + params[i] + '" /> =
+';=0A=
+    }=0A=
+    str +=3D '</object>';=0A=
+  }=0A=
+  else=0A=
+  {=0A=
+    str +=3D '<embed ';=0A=
+    for (var i in embedAttrs)=0A=
+    {=0A=
+      str +=3D i + '=3D"' + embedAttrs[i] + '" ';=0A=
+    }=0A=
+    str +=3D '> </embed>';=0A=
+  }=0A=
+=0A=
+  document.write(str);=0A=
+}=0A=
+=0A=
+function AC_FL_RunContent(){=0A=
+  var ret =3D =0A=
+    AC_GetArgs=0A=
+    (  arguments, ".swf", "movie", =
+"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"=0A=
+     , "application/x-shockwave-flash"=0A=
+    );=0A=
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);=0A=
+}=0A=
+=0A=
+function AC_SW_RunContent(){=0A=
+  var ret =3D =0A=
+    AC_GetArgs=0A=
+    (  arguments, ".dcr", "src", =
+"clsid:166B1BCA-3F9C-11CF-8075-444553540000"=0A=
+     , null=0A=
+    );=0A=
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);=0A=
+}=0A=
+=0A=
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){=0A=
+  var ret =3D new Object();=0A=
+  ret.embedAttrs =3D new Object();=0A=
+  ret.params =3D new Object();=0A=
+  ret.objAttrs =3D new Object();=0A=
+  for (var i=3D0; i < args.length; i=3Di+2){=0A=
+    var currArg =3D args[i].toLowerCase();    =0A=
+=0A=
+    switch (currArg){	=0A=
+      case "classid":=0A=
+        break;=0A=
+      case "pluginspage":=0A=
+        ret.embedAttrs[args[i]] =3D args[i+1];=0A=
+        break;=0A=
+      case "src":=0A=
+      case "movie":	=0A=
+        args[i+1] =3D AC_AddExtension(args[i+1], ext);=0A=
+        ret.embedAttrs["src"] =3D args[i+1];=0A=
+        ret.params[srcParamName] =3D args[i+1];=0A=
+        break;=0A=
+      case "onafterupdate":=0A=
+      case "onbeforeupdate":=0A=
+      case "onblur":=0A=
+      case "oncellchange":=0A=
+      case "onclick":=0A=
+      case "ondblclick":=0A=
+      case "ondrag":=0A=
+      case "ondragend":=0A=
+      case "ondragenter":=0A=
+      case "ondragleave":=0A=
+      case "ondragover":=0A=
+      case "ondrop":=0A=
+      case "onfinish":=0A=
+      case "onfocus":=0A=
+      case "onhelp":=0A=
+      case "onmousedown":=0A=
+      case "onmouseup":=0A=
+      case "onmouseover":=0A=
+      case "onmousemove":=0A=
+      case "onmouseout":=0A=
+      case "onkeypress":=0A=
+      case "onkeydown":=0A=
+      case "onkeyup":=0A=
+      case "onload":=0A=
+      case "onlosecapture":=0A=
+      case "onpropertychange":=0A=
+      case "onreadystatechange":=0A=
+      case "onrowsdelete":=0A=
+      case "onrowenter":=0A=
+      case "onrowexit":=0A=
+      case "onrowsinserted":=0A=
+      case "onstart":=0A=
+      case "onscroll":=0A=
+      case "onbeforeeditfocus":=0A=
+      case "onactivate":=0A=
+      case "onbeforedeactivate":=0A=
+      case "ondeactivate":=0A=
+      case "type":=0A=
+      case "codebase":=0A=
+      case "id":=0A=
+        ret.objAttrs[args[i]] =3D args[i+1];=0A=
+        break;=0A=
+      case "width":=0A=
+      case "height":=0A=
+      case "align":=0A=
+      case "vspace": =0A=
+      case "hspace":=0A=
+      case "class":=0A=
+      case "title":=0A=
+      case "accesskey":=0A=
+      case "name":=0A=
+      case "tabindex":=0A=
+        ret.embedAttrs[args[i]] =3D ret.objAttrs[args[i]] =3D args[i+1];=0A=
+        break;=0A=
+      default:=0A=
+        ret.embedAttrs[args[i]] =3D ret.params[args[i]] =3D args[i+1];=0A=
+    }=0A=
+  }=0A=
+  ret.objAttrs["classid"] =3D classid;=0A=
+  if (mimeType) ret.embedAttrs["type"] =3D mimeType;=0A=
+  return ret;=0A=
+}=0A=
+
+------=_NextPart_000_0000_01CB335C.B1354FE0--
