@@ -9,7 +9,6 @@
 <meta name="description" content="A CPS Insurance Services, Inc. Affliated Office">
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
 <meta name="Generator" content="Dreamweaver">
-<meta name="Author" content="Lyndie Ketterling, LadyGreen Designs & Domains">
 <meta name="Revisit" content="5 days">
 <meta name="ROBOTS" content="ALL">
 <meta name="keywords" content="insurance, CPS, Reliable Financial Group, Spokane, WA, underwriting, liability, smoking, <br>
@@ -118,8 +117,9 @@ body,td,th {
     <td width="863" height="1687">      <table width="863" height="1726" align="left" cellpadding="0" cellspacing="0">
         <tr>
           <td width="861" height="1724" valign="top" bgcolor="#FFFFFF"><table width="852" height="55" align="center" cellpadding="0" cellspacing="0">
+            <tr><td style="text-align: center;"><img src="images/CPS-4c-logo.jpg" alt="" style="height: 100px;"/></td></tr>
             <tr>
-              <td width="850" valign="top" bgcolor="#FFFFFF" class="style20"> <div align="center"><span class="style20"><strong><span class="style21"><img src="images/spacer.gif" width="15" height="1" /><span class="style46"> CPS - Reliable Financial Group</span><br> 
+              <td width="850" valign="top" bgcolor="#FFFFFF" class="style20"> <div align="center"><span class="style20"><strong><span class="style21"><img src="images/spacer.gif" width="15" height="1" /> 
                 </span></strong></span><span class="style81"><span class="style82">Experts in Business, Estate and Personal Life Planning </span><br>
                     <span class="style68">A CPS Insurance Services, Inc. Affiliated Office</span>                    </span><span class="style20"><strong><span class="style21"><span class="style68"><br>
                     </span></span></strong></span></div></td>
@@ -144,11 +144,8 @@ body,td,th {
               <tr background="images/bluefade.gif">
                 <td width="128" class="style20"><div align="center" class="style22"><a href="index.htm"><strong class="style47">Home Page</strong> </a></div></td>
                 <td width="102" class="style20"><div align="center" class="style22"><a href="aboutus.htm"><strong class="style47">About Us </strong></a></div></td>
-                <td width="125" class="style20"><div align="center" class="style22"><a href="impairedrisk.htm"><strong class="style47">Health Issues </strong></a></div></td>
-                <td width="134" class="style20"><div align="center" class="style22"><a href="recentnews.htm"><strong class="style47">Current News</strong></a></div></td>
                 <td width="123" class="style20"><div align="center" class="style22"><a href="contact.htm"><strong class="style47">Contact Us<a href="contact.htm"></strong></a></div></td>
                 <td width="110" class="style20"><div align="center" class="style47"><a href="mailto:frank@relfingrp.com"><strong class="style47">E-Mail Us</strong></a></div></td>
-                <td width="120" class="style20"><div align="center" class="style47"><a href="http://www.nailba.org/EONailba/"><strong class="style47">NAILBA Guide</strong></a></div></td>
               </tr>
             </table>
               <table width="856" height="1491" cellpadding="0" cellspacing="0">
@@ -261,13 +258,10 @@ body,td,th {
                       <td height="19" valign="top" bgcolor="#FFFFFF" class="style42"><span class="style15 style55"><span class="style55"><span class="style57"><img src="images/arrow_white.gif" width="10" height="10"></span></span> <a href="../links.htm">Links</a></span></td>
                     </tr>
                     <tr>
-                      <td valign="top" bgcolor="#FFFFFF" class="style42"><span class="style15 style55"><span class="style55"><span class="style57"><img src="images/arrow_white.gif" width="10" height="10"></span></span> <a href="../docs/ipipeline/1360_42.htm">Permanent Product Info </a></span></td>
+                      <td valign="top" bgcolor="#FFFFFF" class="style42"><span class="style15 style55"><span class="style55"><span class="style57"><img src="images/arrow_white.gif" width="10" height="10"></span></span> <a href="../docs/ipipeline/1360_42.htm">Life Product Info </a></span></td>
                     </tr>
                     <tr>
                       <td valign="top" bgcolor="#FFFFFF" class="style42"><span class="style15 style55"><span class="style55"><span class="style57"><img src="images/arrow_white.gif" width="10" height="10"></span></span> <a href="../policyholder.htm">Policy Holder Services</a></span></td>
-                    </tr>
-                    <tr>
-                      <td valign="top" bgcolor="#FFFFFF" class="style42"><span class="style15 style55"><span class="style55"><span class="style57"><img src="images/arrow_white.gif" width="10" height="10"></span></span> <a href="../docs/ipipeline/1360_14.htm">Term Life Products Info </a></span></td>
                     </tr>
                     <tr>
                       <td valign="top" background="images/bluefade.gif" bgcolor="#2B6CBA" class="style47"><div align="center" class="style65">Software</div></td>

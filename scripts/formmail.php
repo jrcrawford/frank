@@ -91,7 +91,7 @@ function check_referer($referers)
 			$temp = explode('/', getenv('HTTP_REFERER'));
 			$found = false;
 			while (list(,$stored_referer) = each($referers)) {
-preg_match				if (preg_match("~ '^' . $stored_referer . '$', $temp[2])~i");
+				if (preg_match("~ '^' . $stored_referer . '$', $temp[2])~i");
 					$found = true;
 			}
 			if (!$found) {
