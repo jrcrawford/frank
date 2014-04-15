@@ -344,10 +344,9 @@ body,td,th {
                     <center class="style20 style24">
                       </center>
                     <div align="left">
-                      <form action="http://www.relfingrp.com/scripts/formmail.php" method="POST" target="_self">
-                        <input type="hidden" name="redirect" value="http://www.relfingrp.com/thanks.htm">
-                        <input type="hidden" name="recipient" value="frank@relfingrp.com">
-                        <input type="hidden" name="subject" value="Business Overhead Expense">
+                      <form action="FormToEmail.php" method="POST" target="_self">
+                      <input type="hidden" name="recipient" value="recipient_1">
+                      <input name="subject" type="hidden" id="subject" value="Business Overhead Expense">
                         <table width="100%" border="0" cellspacing="1" cellpadding="1">
                           <tr background="images/bluefade.gif">
                             <td height="32" colspan="3"><div align="center" class="style25 style22 style20 style55" style="font-weight: bold">Broker Information</div></td>
@@ -409,7 +408,7 @@ body,td,th {
                           <tr bgcolor="#EFEFEF">
                             <td bordercolor="#CCCCCC" width="21"><div align="center" class="style7">* </div></td>
                             <td bordercolor="#CCCCCC" width="156"><div align="left" class="style7 style55">E-mail:</div></td>
-                            <td bordercolor="#CCCCCC" width="376" height="24"><input name="Email" type="text" size="40">
+                            <td bordercolor="#CCCCCC" width="376" height="24"><input name="email" type="text" size="40">
                             </td>
                           </tr>
                           <tr>
