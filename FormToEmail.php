@@ -218,7 +218,7 @@ $recipients = array(
 
 'recipient_1' => 'frank@relfingrp.com', 
 'recipient_2' => 'zach@relfingrp.com', 
-'recipient_3' => 'lyndie@ladygreen.com'
+'recipient_3' => 'josh@crawford.cc'
 
 );
 

@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"db",
+				"db_options"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "frank.sublime-project",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Context",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Watch",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Stack",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Xdebug Breakpoint",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/josh/Source/coinfu/manager/src/dataService.js",
+		"/Users/josh/Source/gj/wp-content/themes/GravityJackNew/anet_php_sdk/AuthorizeNet.php",
+		"/Users/josh/Source/coinfu/manager/src/trades.txt",
+		"/Users/josh/2-1.trades",
+		"/Users/josh/.ssh/aws-cred",
+		"/Users/josh/.ssh/master1.pem",
+		"/Users/josh/master1.pem",
+		"/Users/josh/Documents/ed/startup_eng/hw3/index_files/item_list.js",
+		"/Users/josh/Source/coinfu/site/package.json",
+		"/Users/josh/Source/coinfu/site/build/package.json",
+		"/Users/josh/Downloads/breeze-runtime-plus-1.4.11/Samples/ToDo-Angular/Todo-Angular/Controllers/TodosController.cs",
+		"/Users/josh/Source/coinfu/site/controlfrog/css/controlfrog.scss",
+		"/Applications/MAMP/bin/php/php5.5.3/conf/php.ini",
+		"/Users/josh/Downloads/angular-ui-ui-router-9feb692/sample/states.js",
+		"/Users/josh/Source/browsar-server/Browsar/BrowsarSite/app/services/datacontext.js",
+		"/Users/josh/Downloads/ngbp-0.3.1-release/Gruntfile.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/config/passport.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/config/sequelize.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/config/passport.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/app.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/app.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/app/controllers/stats.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/config/routes.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/app/controllers/articles.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/config/config.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/package.json",
+		"/Users/josh/Downloads/mean-stack-relational-master/package.json",
+		"/Users/josh/Downloads/mean-stack-relational-master/gruntfile.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/build/config/express.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/app/models/user.js",
+		"/Users/josh/Downloads/mean-stack-relational-master/config/env/development.js",
+		"/Users/josh/Source/coinfu/site/node_modules/grunt-contrib-less/node_modules/less/test/less/css.less",
+		"/Users/josh/Source/coinfu/site/vendor/bootstrap/less/navbar.less",
+		"/Users/josh/Source/coinfu/website/build.config.js",
+		"/Users/josh/Source/ngbp2/ngbp/README.md",
+		"/Users/josh/Source/ngbp2/ngbp/bower.json",
+		"/Users/josh/Source/ngbp2/ngbp/build.config.js",
+		"/Users/josh/Source/ngbp/build/karma-unit.js",
+		"/Users/josh/Source/ngbp/karma/karma-unit.tpl.js",
+		"/Users/josh/Source/ngbp/build/index.html",
+		"/Users/josh/Source/ngbp/src/app/home/home.tpl.html",
+		"/Users/josh/Source/coinfu/ngbp/src/app/home/home.tpl.html",
+		"/Users/josh/Downloads/ngbp-0.3.1-release/.bowerrc",
+		"/Users/josh/Downloads/ngbp-0.3.1-release/.travis.yml",
+		"/Users/josh/Source/coinfu/site/server.js",
+		"/Users/josh/Source/coinfu/site/config.json",
+		"/Users/josh/Source/coinfu/.gitignore",
+		"/Users/josh/Sites/dogmedia/wp-config.php",
+		"/Users/josh/Sites/dogmedia/css/rebuild.css",
+		"/Users/josh/Downloads/testerror.html",
+		"/Users/josh/Downloads/blocks_test.sql",
+		"/Users/josh/Source/punto-destino-server - Copy/PuntoDestino/obj/Release/Package/PackageTmp/plugins/app.js",
+		"/Users/josh/Downloads/KeysExport.xml",
+		"/Users/josh/Source/gj/wp-config.php",
+		"/private/var/folders/sy/3nmf40vn4csgbzpgbqz0x3pc0000gn/T/manager_src_app_Before_01922a1a838a828b9b493708a80df226a04ce2b7.js",
+		"/Users/josh/Sites/phpMyAdmin/config.inc.php",
+		"/Users/josh/Sites/phpMyAdmin/composer.json",
+		"/Users/josh/Source/coinfu/manager/test/transactions.js",
+		"/Users/josh/.ssh/bitbucket.pub",
+		"/Users/josh/Sites/dogmedia-wordpress/wp-content/themes/upBootstrap3WP-master/header.php",
+		"/Users/josh/Sites/dogmedia-wordpress/wp-content/themes/upBootstrap3WP-master/index.php",
+		"/Users/josh/Sites/dogmedia-wordpress/wp-content/index.php",
+		"/Users/josh/Sites/dogmedia-wordpress/index.php",
+		"/Users/josh/Courses/AngularSPA/materials/CC.Web/CC.Web/content/customtheme.css",
+		"/Users/josh/Source/frank/impairedrisk.htm",
+		"/Users/josh/Source/frank/healthprem.htm",
+		"/Users/josh/Source/frank/guidelines.htm",
+		"/Users/josh/Source/frank/growyourbiz.htm",
+		"/Users/josh/Source/frank/gpa_plus.htm",
+		"/Users/josh/Source/frank/financial.htm",
+		"/Users/josh/Source/frank/exam.htm",
+		"/Users/josh/Source/frank/estate_maximizer.htm",
+		"/Users/josh/Source/frank/estate.htm",
+		"/Users/josh/Source/frank/estate planning.htm",
+		"/Users/josh/Source/frank/eandoins.htm",
+		"/Users/josh/Source/frank/disabiltity_income.htm",
+		"/Users/josh/Source/frank/disabilityquote.htm",
+		"/Users/josh/Source/frank/dbuysell.htm",
+		"/Users/josh/Source/frank/cpsexpress.htm",
+		"/Users/josh/Source/frank/contracting2.htm",
+		"/Users/josh/Source/frank/contracting.htm",
+		"/Users/josh/Source/frank/continuinged.htm",
+		"/Users/josh/Source/frank/contact2.htm",
+		"/Users/josh/Source/frank/contact.htm",
+		"/Users/josh/Source/frank/compliance.htm",
+		"/Users/josh/Source/frank/compensation.htm",
+		"/Users/josh/Source/frank/commissions.htm",
+		"/Users/josh/Source/frank/clienthandouts.htm",
+		"/Users/josh/Source/frank/case_status.htm",
+		"/Users/josh/Source/frank/carriersoftware.htm",
+		"/Users/josh/Source/frank/carriers.htm",
+		"/Users/josh/Source/frank/carrierlinks.htm",
+		"/Users/josh/Source/frank/calendar.htm",
+		"/Users/josh/Source/frank/bonus.htm",
+		"/Users/josh/Source/frank/bomultilife.htm",
+		"/Users/josh/Source/frank/bizoverhead.htm",
+		"/Users/josh/Source/frank/askthedr.htm",
+		"/Users/josh/Source/frank/apvideos.htm",
+		"/Users/josh/Source/frank/annuityrequest.htm",
+		"/Users/josh/Source/frank/annuityquotes.htm",
+		"/Users/josh/Source/frank/annuityquote.htm",
+		"/Users/josh/Source/frank/annuityoption2.htm",
+		"/Users/josh/Source/frank/annuity_info.htm",
+		"/Users/josh/Source/frank/amltraining.htm",
+		"/Users/josh/Source/frank/amltc.htm",
+		"/Users/josh/Source/frank/advisys.htm",
+		"/Users/josh/Source/frank/aboutus.htm",
+		"/Users/josh/Source/frank/westcoastlife.htm",
+		"/Users/josh/Source/frank/webprez.htm",
+		"/Users/josh/Source/frank/webconferencing.htm",
+		"/Users/josh/Source/frank/vitalterm.htm",
+		"/Users/josh/Source/frank/underwriting.htm",
+		"/Users/josh/Source/frank/tools.htm",
+		"/Users/josh/Source/frank/thinkaboutit.htm",
+		"/Users/josh/Source/frank/thanks.htm",
+		"/Users/josh/Source/frank/term.htm",
+		"/Users/josh/Source/frank/telelifeprocessing.htm",
+		"/Users/josh/Source/frank/telelife.htm",
+		"/Users/josh/Source/frank/specialtyproducts.htm",
+		"/Users/josh/Source/frank/small_group.htm",
+		"/Users/josh/Source/frank/services.htm",
+		"/Users/josh/Source/frank/salestools.htm",
+		"/Users/josh/Source/frank/register1.html",
+		"/Users/josh/Source/frank/recentnews.htm",
+		"/Users/josh/Source/frank/questionnare.htm",
+		"/Users/josh/Source/frank/products.htm",
+		"/Users/josh/Source/frank/presentation.htm",
+		"/Users/josh/Source/frank/prelimunderwriting.htm"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/josh/Sites/frank",
+			"/Users/josh/Downloads/mean-stack-relational-master/build",
+			"/Users/josh/Downloads/mean-stack-relational-master",
+			"/Users/josh/Source/coinfu/site",
+			"/Users/josh/Sites/coinfu/site",
+			"/Users/josh/Sites/dogmedia-wordpress",
+			"/Users/josh/Source/frank",
+			"/Users/josh/Source/gj",
+			"/Users/josh/Documents/git/gj",
+			"/Users/josh/Documents/git/app-estimator",
+			"/Users/josh/Documents/git/frank"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"][",
+			"drop table",
+			"debug",
+			"\"",
+			"relfin",
+			"form",
+			"biz",
+			"Business Overhead Expense",
+			"\\\"",
+			"\\n",
+			"sequelize",
+			"'sequelize'",
+			"connect-mongo",
+			"mongo",
+			"connect-mongo",
+			"border-radius",
+			"value",
+			"upbootwp.css",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span> </strong><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://www.brtnow.com/\" target=\"_blank\">Back Room Technician</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.banner.aq2e.com\" target=\"_blank\">AQ2E Term Quote</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.agentquote.com\" target=\"_blank\">Create A Website</a> </span></td>\n                    </tr>",
+			"Ideas to Grow With </strong></div></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> </strong><a href=\"http://www.agentquote-cps.com/\">Create a Website</a></td>\n                    </tr>\n                    <tr>",
+			"http://cpsreliable.affiliate.aq2e.com",
+			"A2QE",
+			"dev.gra",
+			"dev.gravityjack.com",
+			"oldtheme.js",
+			"elastislide",
+			"oldtheme.js",
+			"elastislide.js",
+			"elastislide",
+			"form",
+			"mysql",
+			"\\",
+			"\\\"",
+			"dropTarget",
+			"'",
+			"\"",
+			"screen_items",
+			"screen_items_next",
+			"ooomf",
+			"hi",
+			"<td width=\"850\" valign=\"top\" background=\"images/searchBKGND.gif\" bgcolor=\"#CCCCCC\" ",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>",
+			"<tr>\n              <td width=\"850\" valign=\"top\" background=\"images/searchBKGND.gif\" bgcolor=\"#CCCCCC\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" /><span class=\"style46\">CPS-Reliable Financial Group</span> </span></strong></span><br>",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>",
+			"<span class=\"style46\"> CPS - Reliable Financial Group</span><br>",
+			"<tr>\n              <td width=\"850\" valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" /><span class=\"style46\"> CPS - Reliable Financial Group</span><br>",
+			"<tr>\n              <td width=\"850\" valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" /><span class=\"style46\"> CPS - Reliable Financial Group</span><br> \n                </span></strong></span><span class=\"style81\"><span class=\"style82\">Experts in Business, Estate and Personal Life Planning </span><br>\n                    <span class=\"style68\">A CPS Insurance Services, Inc. Affiliated Office</span>                    </span><span class=\"style20\"><strong><span class=\"style21\"><span class=\"style68\"><br>\n                    </span></span></strong></span></div></td>\n            </tr>",
+			"<td width=\"424\" height=\"45\" align=\"center\" background=\"images/bluefade.gif\" bgcolor=\"#000000\" class=\"style20\"><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=1><span class=\"style20\">&copy; 2002-2010 Reliable Financial Group, Inc. All Rights reserved.<br> \n                  <U>Terms of Use and Disclaimer</U> </span></FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 size=1><BR>\n                </FONT></td>",
+			"\n                <td width=\"424\" background=\"images/bluefade.gif\" bgcolor=\"#000000\" class=\"style20\"><div align=\"center\"><span class=\"style26\"><a href=\"http://www.chargerel.com\">design by chargerel </a><br>\n                      </span></div></td>",
+			"\n            <table width=\"850\" cellspacing=\"0\" cellpadding=\"0\">\n              <tr>\n                <td height=\"26\" valign=\"top\" background=\"images/bluefade.gif\" class=\"style20\"><div align=\"center\"><FONT \nface=\"Arial, Helvetica, sans-serif\" size=-7>All content is copyrighted and can not be used without express written permission. <BR>\n    Web site Created: September 2002</FONT><FONT face=\"Arial, Helvetica, sans-serif\" \nsize=1>  \n    <FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=1></FONT></font></div></td>\n              </tr>\n            </table>",
+			"\n            <table width=\"850\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n              <tr>\n                <td background=\"images/searchBKGND.gif\" bgcolor=\"#FFFFFF\" class=\"style20\"><div align=\"center\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 size=1>Web site<span class=\"style26\"> by <a \nhref=\"http://www.ladygreen.com\">LadyGreen Designs</a> &amp; <a \nhref=\"http://www.ladygreendomains.com\">Domains</a></span></font></div></td>\n              </tr>\n            </table>",
+			"\n<meta name=\"Author\" content=\"Lyndie Ketterling, LadyGreen Designs & Domains\">",
+			"2002 Reliable",
+			"2002 Reliable Financial Group, Inc. All Rights reserved.",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://www.brtnow.com/\" target=\"_blank\">Back Room Technician</a> </span></td>\n                    </tr>",
+			"docs/ipipeline/1360_42.htm\">Permanent Product Info ",
+			"\n                    <tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"docs/ipipeline/1360_14.htm\">Term Life Products Info </a></span></td>\n                    </tr>",
+			"\n  286                      <tr>\n  287:                       <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"docs/ipipeline/1360_14.htm\">Term Life Products Info </a></span></td>",
+			"Term Life Products",
+			"Term Live Products",
+			"\n                    <tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"../docs/ipipeline/1360_14.htm\">Term Life Products Info </a></span></td>\n                    </tr>",
+			"<tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"../docs/ipipeline/1360_14.htm\">Term Life Products Info </a></span></td>\n                    </tr>",
+			"\n                    <tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"../docs/ipipeline/1360_14.htm\">Term Life Products Info </a></span></td>\n                    </tr>",
+			"”",
+			"“",
+			"• ",
+			"  ",
+			"\n",
+			"\n                <td width=\"120\" class=\"style20\"><div align=\"center\" class=\"style47\"><a href=\"http://www.nailba.org/EONailba/\"><strong class=\"style47\">NAILBA Guide</strong></a></div></td>",
+			"\n                \n                <td width=\"134\" class=\"style20\"><div align=\"center\" class=\"style22\"><a href=\"recentnews.htm\"><strong class=\"style47\">Current News</strong></a></div></td>",
+			"<td width=\"125\" class=\"style20\"><div align=\"center\" class=\"style22\"><a href=\"impairedrisk.htm\"><strong class=\"style47\">Health Issues </strong></a></div></td>",
+			"mysql",
+			"https://www.lgaappassist.com/cgi-bin/rlipi.exe?ulogin=S2K0000_PT&password=jbqeivdxsedp87&fid=log&fnd=0",
+			"Banner - App",
+			"ce ",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></strong><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></td>\n                    </tr>",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>",
+			"<td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><font face=\"MS Sans Serif\" size=\"2\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></font></span><font face=\"MS Sans Serif\" size=\"2\"> </font></strong><font face=\"MS Sans Serif\" size=\"2\"><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></font></td>",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>",
+			"<tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://relfingrp.webce.com\">Web CE</a> </span></td>\n                    </tr>",
+			"<table width=\"850\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\">\n              <tr>\n                <td background=\"images/searchBKGND.gif\" bgcolor=\"#FFFFFF\" class=\"style20\"><div align=\"center\"><strong><font face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 size=1>Web site</font></strong><span class=\"style75\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 size=1> by <a \nhref=\"http://www.ladygreen.com\">LadyGreen Designs</a> &amp; <a \nhref=\"http://www.ladygreendomains.com\">Domains</a></font></span></div></td>\n              </tr>\n            </table>",
+			"email",
+			"brady",
+			"email",
+			"brady",
+			"dev.",
+			"https://lifespeed.ebixexchange.com/lifespeed/AgencyLogin.aspx?Go%2bCvSFVPnILVcfMSDH80F%2b2IDEn1STmKzDFMvpkNGecTLQAKxf78czezciEs4j4JJIQFuFWrlrtjP4FhnJqcfeRb7EffUzBG3lWdk1IzsQk966ycR%2b2RDEDg03qI85dXPeuW8%2bVbyeLedJkwByXmAvZnfHMhXyVGo22M962Rcwsb5gWKL08naTO%2bGFriGfsE0tKODyK2aCVGSaEftGKEymYMdtoBLH6xRETBi%2fnVk31AonjdSTz%2bw%3d%3d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"select count(*) from",
+			"\\\"",
+			"\"",
+			"",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.agentquote.com\" target=\"_blank\">Create A Website</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span> </strong><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://www.brtnow.com/\" target=\"_blank\">Back Room Technician</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.banner.aq2e.com\" target=\"_blank\">AQ2E Term Quote</a> </span></td>\n                    </tr>",
+			"Ideas to Grow With </strong></div></td>\n                    </tr>\n                    <tr>",
+			"http://cpsreliable.banner.aq2e.com",
+			"http://cpsreliable.banner.aq2e.com/",
+			"",
+			"<td width=\"850\" valign=\"top\" ",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr>\n              <td width=\"850\" valign=\"top\" background=\"images/searchBKGND.gif\" bgcolor=\"#CCCCCC\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" />",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>",
+			"",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr>\n              <td width=\"850\" valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" /><span class=\"style46\"> CPS - Reliable Financial Group</span><br>",
+			"<tr><td style=\"text-align: center;\"><img src=\"images/CPS-4c-logo.jpg\" alt=\"\" style=\"height: 100px;\"/></td></tr>\n            <tr>\n              <td width=\"850\" valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style20\"> <div align=\"center\"><span class=\"style20\"><strong><span class=\"style21\"><img src=\"images/spacer.gif\" width=\"15\" height=\"1\" /><span class=\"style46\"> CPS - Reliable Financial Group</span><br> \n                </span></strong></span><span class=\"style81\"><span class=\"style82\">Experts in Business, Estate and Personal Life Planning </span><br>\n                    <span class=\"style68\">A CPS Insurance Services, Inc. Affiliated Office</span>                    </span><span class=\"style20\"><strong><span class=\"style21\"><span class=\"style68\"><br>\n                    </span></span></strong></span></div></td>\n            </tr>",
+			"<td width=\"100%\" height=\"45\" align=\"center\" background=\"images/bluefade.gif\" bgcolor=\"#000000\" class=\"style20\"><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=1><span class=\"style20\">&copy; 2002-2013 Reliable Financial Group, Inc. All Rights reserved.<br> \n                  <U>Terms of Use and Disclaimer</U> </span></FONT><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" color=#000000 size=1><BR>\n                </FONT></td>",
+			"",
+			"2013 Reliable",
+			"2013 Reliable Financial Group, Inc. All Rights reserved.",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://www.brtnow.com/\" target=\"_blank\">Back Room Technician</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.affiliate.aq2e.com\" target=\"_blank\">AQ2E Term Quote</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://cpsreliable.agentquote.com\" target=\"_blank\">Create A Website</a> </span></td>\n                    </tr>",
+			"docs/ipipeline/1360_42.htm\">Life Product Info ",
+			"",
+			"\"",
+			"<li>",
+			" ",
+			"",
+			"https://www.lgaappassist.com/cgi-bin/rlipi.exe?ulogin=Y370000_PT&password=qv8gjrddphvsjn&fid=log&fnd=0",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span> </strong><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></td>\n                    </tr>",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></strong><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></td>\n                    </tr>",
+			"<td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>",
+			"<tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style42\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"growyourbiz.htm\">Grow Your Business</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td bgcolor=\"#FFFFFF\" class=\"style57\"><strong><span class=\"style42\"><font face=\"MS Sans Serif\" size=\"2\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></font></span><font face=\"MS Sans Serif\" size=\"2\"> </font></strong><font face=\"MS Sans Serif\" size=\"2\"><a href=\"http://www.webprez.com/\" target=\"_blank\">WebPrez</a></font></td>\n                    </tr>",
+			"<tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://relfingrp.webce.com\">Web CE</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"webprez.htm\">WebPrez</a> </span></td>\n                    </tr>",
+			"<tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"http://relfingrp.webce.com\">Web CE</a> </span></td>\n                    </tr>\n                    <tr>\n                      <td valign=\"top\" bgcolor=\"#FFFFFF\" class=\"style42\"><span class=\"style15 style55\"><span class=\"style55\"><span class=\"style57\"><img src=\"images/arrow_white.gif\" width=\"10\" height=\"10\"></span></span> <a href=\"webprez.htm\">WebPrez</a> </span></td>\n                    </tr>\n                    <tr>",
+			"",
+			"https://lifespeed.ebixexchange.com/lifespeed/AgencyLogin.aspx?Go%2bCvSFVPnIoEGIh6a3x%2bhL3s4daOWTdfwFpfU1EZTCIXw3yDy%2fEZd7GqssAEL2okdmkfiMocWVguZltLID7opl6INuyPWbUFbSA0SlWpyN3qXyYew52F7UW3YWb79wuwn%2bqA8OQ0h8WRQahxGQhj%2bNQUykPCK7gLO6OFUzAUx3%2fhLpJtSeLFiwVAWIEA2jGSs1G3UUegpyHiviz21avnAbT8sbP%2fmHa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "frank.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Xdebug Client/Xdebug.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"project": "frank.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
